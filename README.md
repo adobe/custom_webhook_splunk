@@ -29,8 +29,10 @@ Headers (dict): Include any number of headers
 Payload (dict): Payload data with key-value pairs of your choice
   `e.g. {‘service_name’: ‘MyService’, ‘key1’: ‘value1’, ‘key2’: ‘value2’…}`
 
-**Contributing**
-Contributions are welcomed! Read the [Contributing Guide](../CONTRIBUTING.md) for more information.
+## Contributing
 
-**Licensing**
-This project is licensed under the MIT License. See [License](../LICENSE.md) for more information.
+Contributions are welcomed! Read the [Contributing Guide](./CONTRIBUTING.md) for more information.
+
+## Licensing
+
+This project is licensed under the MIT License. See [License](./LICENSE.md) for more information.
